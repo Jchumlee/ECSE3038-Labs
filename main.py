@@ -1,5 +1,6 @@
 '''
-    Author: Joshua Cholmondeley
+Joshua Cholmondeley
+620104371
 '''
 
 def hello():
